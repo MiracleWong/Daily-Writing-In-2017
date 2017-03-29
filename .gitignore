@@ -2,4 +2,5 @@
 .sync/
 .Archive/
 *.data
+_image/
 sync_changes.log
