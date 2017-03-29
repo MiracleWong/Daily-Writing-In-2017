@@ -1,0 +1,5 @@
+# The directories and files should be ignored
+.sync/
+.Archive/
+*.data
+sync_changes.log
